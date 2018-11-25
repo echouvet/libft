@@ -1,4 +1,4 @@
-# libft
+# libft (Lib Fourty Two)
 
 Libft is a project prescribed at the very beginning of our 42 curriculum. The subject is visible in the Sujet.pdf file at the root of this repository.
 
